@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="tab_text_1">Store</string>
+    <string name="tab_text_2">Click</string>
+    <string name="tab_text_3">Map</string>
+    <string name="title_activity_store">StoreActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="log_in">Log in</string>
+
+    <string name="registration">Registration</string>
+
+    <string name="reg">Registration</string>
+    <string name="buy_upgrade"> Buy upgrade</string>
+
+
+    <string name="clickme">Click me</string>
+    <string name="store">Store</string>
+    <string name="save">Save</string>
+    <string name="Current_multiply">Current multiply</string>
+    <string name="multiply">Multiply</string>
+    <string name="cost">Cost</string>
+
+    <string name="logAuth">Login</string>
+    <string name="passwordAuth">Password</string>
+
+
+    <string name="loginReg">Login</string>
+    <string name="passwordReg">Password</string>
+
+    <string name="confirmPasswordReg">Current password</string>
+
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="_0">0</string>
+</resources>
